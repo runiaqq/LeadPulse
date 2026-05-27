@@ -9,11 +9,6 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1 className="text-3xl font-bold text-blue-600">
-          LeadPulse CRM Dashboard
-        </h1>
-      </div>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
