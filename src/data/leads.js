@@ -1,0 +1,51 @@
+export const leads = [
+  {
+    id: 1,
+    company: 'NovaTech Solutions',
+    contactName: 'Коваленко Марія Олегівна',
+    status: 'New',
+    amount: 12000,
+  },
+  {
+    id: 2,
+    company: 'BrightVision Agency',
+    contactName: 'Шевченко Дмитро Павлович',
+    status: 'Negotiation',
+    amount: 8500,
+  },
+  {
+    id: 3,
+    company: 'Skyline Industries',
+    contactName: 'Бондар Максим Юрійович',
+    status: 'Closed Won',
+    amount: 25000,
+  },
+  {
+    id: 4,
+    company: 'GreenField Logistics',
+    contactName: 'Ткаченко Ірина Василівна',
+    status: 'Proposal Sent',
+    amount: 14700,
+  },
+  {
+    id: 5,
+    company: 'PixelCraft Studio',
+    contactName: 'Мельник Андрій Вікторович',
+    status: 'Closed Lost',
+    amount: 5300,
+  },
+  {
+    id: 6,
+    company: 'AlphaCore Systems',
+    contactName: 'Савченко Артем Ігорович',
+    status: 'Negotiation',
+    amount: 19800,
+  },
+  {
+    id: 7,
+    company: 'BlueWave Media',
+    contactName: 'Романюк Наталія Володимирівна',
+    status: 'New',
+    amount: 7600,
+  },
+];
