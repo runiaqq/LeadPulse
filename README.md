@@ -5,6 +5,7 @@
 LeadPulse — CRM-lite dashboard для управління лідами та аналітики продажів.
 
 Застосунок дозволяє:
+
 - відстежувати потенційних клієнтів
 - керувати статусами лідів
 - аналізувати дані продажів
@@ -30,3 +31,4 @@ git clone https://github.com/runiaqq/LeadPulse
 cd LeadPulse
 npm install
 npm run dev
+```

@@ -4,15 +4,7 @@ export default {
     'at-rule-no-unknown': [
       true,
       {
-        ignoreAtRules: [
-          'import',
-          'tailwind',
-          'theme',
-          'source',
-          'utility',
-          'variant',
-          'custom-variant',
-        ],
+        ignoreAtRules: ['tailwind', 'theme', 'source', 'utility', 'variant', 'custom-variant'],
       },
     ],
   },
